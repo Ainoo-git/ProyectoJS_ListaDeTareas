@@ -37,5 +37,4 @@ Empieza a añadir, marcar y eliminar tus tareas
 ✨ ¡Siempre estoy abierta a sugerencias y mejoras en el proyecto!
 📬 Puedes contactarme a través de GitHub o abrir un issue en este repositorio.
 
-<p align="center"> <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/> </p>
 🌷 Gracias por visitar este proyecto y probar la Lista de Tareas! 🌷
