@@ -21,7 +21,7 @@ Este proyecto sirve para practicar **JavaScript, DOM, HTML y CSS**, y aplicar l�
 - ✅ Añadir nuevas tareas  
 - ✅ Marcar tareas como completadas  
 - ✅ Eliminar tareas completadas  
-- ✅ Guardar tareas durante la sesión (localStorage opcional si quieres)  
+- ✅ Guardar tareas durante la sesión
 
 ---
 
