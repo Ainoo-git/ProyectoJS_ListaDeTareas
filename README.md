@@ -1,9 +1,9 @@
-<h1 align="center">📝 Lista de Tareas</h1>
+<h1 align="center">Lista de Tareas</h1>
 <h3 align="center">Proyecto web básico | JavaScript + HTML + CSS</h3>
 
 ---
 
-## 🌟 Descripción
+## Descripción
 **Lista de Tareas** es una pequeña aplicación web para gestionar tus tareas diarias.  
 Permite **añadir, marcar como completadas y eliminar tareas**, todo desde el navegador.  
 Este proyecto sirve para practicar **JavaScript, DOM, HTML y CSS**, y aplicar lógica básica de programación.
@@ -17,24 +17,16 @@ Este proyecto sirve para practicar **JavaScript, DOM, HTML y CSS**, y aplicar l�
 
 ---
 
-## 🚀 Funcionalidades
-- ✅ Añadir nuevas tareas  
-- ✅ Marcar tareas como completadas  
-- ✅ Eliminar tareas completadas  
-- ✅ Guardar tareas durante la sesión
+## Funcionalidades
+- Añadir nuevas tareas  
+- Marcar tareas como completadas  
+- Eliminar tareas completadas  
+- Guardar tareas durante la sesión
 
 ---
 
-## 💻 Cómo usarlo
+## Cómo usarlo
 1. Clona el repositorio:
 ` `` ¡bash
 git clone https://github.com/Ainoo-git/lista-de-tareas.git
 Abre index.html en tu navegador
-
-Empieza a añadir, marcar y eliminar tus tareas
-
-💬 Contribuciones y Feedback
-✨ ¡Siempre estoy abierta a sugerencias y mejoras en el proyecto!
-📬 Puedes contactarme a través de GitHub o abrir un issue en este repositorio.
-
-🌷 Gracias por visitar este proyecto y probar la Lista de Tareas! 🌷
